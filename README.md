@@ -1,2 +1,2 @@
 # PythonLessons
-This repository shows the basics of Python coding.
+This repository shows some basics of Python coding.
